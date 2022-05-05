@@ -11,5 +11,5 @@
 
 
 
--For all the charts mark line is used. For third question besides mark line channel color hue is used. Channel length (1-d size) is used in all charts
+- For all the charts mark line is used. For third question besides mark line channel color hue is used. Channel length (1-d size) is used in all charts
 for the measurement.
