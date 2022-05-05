@@ -1,6 +1,6 @@
 # Your answer for Task 3: How
--![first hypothesis](Images/hypothesis1 primary fur color frequency1.png "MarineGEO logo" )
--![first hypothesis2](./images/hypothesis1-1Highlight Fur Color.png "MarineGEO logo")
+## ![first hypothesis](Images/hypothesis1 primary fur color frequency1.png "MarineGEO logo" )
+## ![first hypothesis2](./images/hypothesis1-1Highlight Fur Color.png "MarineGEO logo")
 -![second hypothesis](./images/hypothesis2Combination of Primary and Highlight Color.png "MarineGEO logo")
 -![third hypothesis](./images/hypothesis 3 Combination of Primary and Highlight Color.png "MarineGEO logo")
 -![third hypothesis2](./images/hypothesis3 relation betwenn hectare and primary fur color.png "MarineGEO logo")
