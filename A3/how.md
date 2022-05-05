@@ -1,5 +1,5 @@
 # Your answer for Task 3: How
-## ![first hypothesis](../main/Images/hypothesis1 primary fur color frequency1.png )
+## ![first hypothesis](Visualization/A3/Images/hypothesis 3 Combination of Primary and Highlight Color.png)
 <img src="Images/hypothesis1 primary fur color frequency1.png/>
          
 ## ![first hypothesis2](./images/hypothesis1-1Highlight Fur Color.png "MarineGEO logo")
